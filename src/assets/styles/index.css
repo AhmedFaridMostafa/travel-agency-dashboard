@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+@import "@syncfusion/ej2-base/styles/material.css";
+@import "@syncfusion/ej2-buttons/styles/material.css";
+@import "@syncfusion/ej2-calendars/styles/material.css";
+@import "@syncfusion/ej2-dropdowns/styles/material.css";
+@import "@syncfusion/ej2-inputs/styles/material.css";
+@import "@syncfusion/ej2-navigations/styles/material.css";
+@import "@syncfusion/ej2-popups/styles/material.css";
+@import "@syncfusion/ej2-splitbuttons/styles/material.css";
+@import "@syncfusion/ej2-react-grids/styles/material.css";
+
+@theme {
+  --font-display: "Open Sans", sans-serif;
+  --font-body: "Open Sans", sans-serif;
+
+  --color-main-bg: #fafbfb;
+  --color-main-dark-bg: #20232a;
+  --color-secondary-dark-bg: #33373e;
+  --color-light-gray: #f7f7f7;
+  --color-half-transparent: rgba(0, 0, 0, 0.5);
+
+  --width-400: 400px;
+  --width-760: 760px;
+  --width-780: 780px;
+  --width-800: 800px;
+  --width-1000: 1000px;
+  --width-1200: 1200px;
+  --width-1400: 1400px;
+
+  --background-image-hero-pattern: url("https://i.ibb.co/MkvLDfb/Rectangle-4389.png");
+}
